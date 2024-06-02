@@ -6,7 +6,9 @@ ls (To show all the files and sub-folders inside the current directory)
 
 touch <The name of the file> (To create a new file, also you can just use a text editor)
 
-git add <file name> (To make the file tracked)
+git add <file name> (To track the file)
+
+git add . (To track all the files within the directory)
 
 git commit -m "<Any message>" (To commit changes to the repo)
 
